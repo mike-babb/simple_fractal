@@ -1,2 +1,3 @@
 # simple_fractal
-A simple visualization of the Mandelbrot set using python and numpy
+# February 9, 2022
+A simple visualization of the Mandelbrot set using NumPy and PIL.
